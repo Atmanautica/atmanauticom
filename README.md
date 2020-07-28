@@ -1,7 +1,5 @@
 # Atmanauticom
 
-The homebase and folio of Atmanautica
-
 A monorepo for:
 - the headless Sanity CMS where we keep 'em integrated
 - the static Next.js client that displays our posts and pages and work
@@ -11,6 +9,9 @@ A monorepo for:
 ```
 git clone git@github.com:Atmanautica/atmanauticom.git
 cd atmanauticom
+git submodule sync
 yarn
-yarn dev
+cd studio && yarn
+cd ../web && yarn
+cd .. && yarn dev
 ```
