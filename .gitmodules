@@ -1,6 +1,6 @@
-[submodule "studio"]
-	path = studio
+[submodule "cms"]
+	path = cms
 	url = git@github.com:Atmanautica/cms.git
-[submodule "web"]
-	path = web
+[submodule "com"]
+	path = com
 	url = git@github.com:Atmanautica/com.git
