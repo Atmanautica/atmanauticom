@@ -4,3 +4,6 @@
 [submodule "com"]
 	path = com
 	url = git@github.com:Atmanautica/com.git
+[submodule "fromto"]
+	path = fromto
+	url = git@github.com:Atmanautica/fromto.git
