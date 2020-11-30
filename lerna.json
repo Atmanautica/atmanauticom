@@ -1,7 +1,9 @@
 {
   "packages": [
     "com",
-    "cms"
+    "cms",
+    "snovv",
+    "chaka"
   ],
   "npmClient": "yarn",
   "version": "0.1.0"

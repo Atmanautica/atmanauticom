@@ -4,6 +4,9 @@
 [submodule "com"]
 	path = com
 	url = git@github.com:Atmanautica/com.git
-[submodule "fromto"]
-	path = fromto
-	url = git@github.com:Atmanautica/fromto.git
+[submodule "snovv"]
+	path = snovv
+	url = git@github.com:Atmanautica/snovv.git
+[submodule "chaka"]
+	path = chaka
+	url = git@github.com:Atmanautica/chaka.git
