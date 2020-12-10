@@ -13,3 +13,4 @@ git submodule update
 yarn
 yarn dev
 ```
+TODO: make a TODO rake (ripgrep) that runs pre-commit and pulls all TODOs into a single file at the root of the monorepo
