@@ -1,2 +1,0 @@
-com/README.md:TODO: make a TODO rake (ripgrep) that runs pre-commit and pulls all TODOs into a single file at the root of the monorepo
-README.md:TODO: make a TODO rake (ripgrep) that runs pre-commit and pulls all TODOs into a single file at the root of the monorepo
