@@ -13,9 +13,6 @@
     "postinstall": "husky install && lerna bootstrap",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "husky": {
-    "pre-commit": "npm test"
-  },
   "devDependencies": {
     "@sanity/cli": "^1.149.18",
     "eslint": "^7.13.0",
