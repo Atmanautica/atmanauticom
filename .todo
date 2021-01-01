@@ -1,2 +1,2 @@
-com/components/form.tsx:  // TODO: enable autocomplete of the name and email fields
-com/components/hero.tsx:// TODO: offer a call-to-action
+com/components/form.tsx:49:  // TODO: enable autocomplete of the name and email fields
+com/components/hero.tsx:6:// TODO: offer a call-to-action
