@@ -1,7 +1,7 @@
 {
   "packages": [
-    "com",
-    "cms"
+    "easeness",
+    "sanity"
   ],
   "npmClient": "yarn",
   "version": "0.1.1"

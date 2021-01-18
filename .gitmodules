@@ -1,12 +1,6 @@
-[submodule "cms"]
-	path = cms
-	url = git@github.com:Atmanautica/cms.git
-[submodule "com"]
-	path = com
-	url = git@github.com:Atmanautica/com.git
-[submodule "snovv"]
-	path = snovv
-	url = git@github.com:Atmanautica/snovv.git
-[submodule "chaka"]
-	path = chaka
-	url = git@github.com:Atmanautica/chaka.git
+[submodule "sanity"]
+	path = sanity
+	url = git@github.com:Atmanautica/sanity.git
+[submodule "easeness"]
+	path = easeness
+	url = git@github.com:Atmanautica/easeness.git
